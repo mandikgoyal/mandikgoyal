@@ -9,7 +9,7 @@
   - [AZ-500: Microsoft Azure Security Technologies](https://learn.microsoft.com/en-us/certifications/exams/az-500/)
 - <b>Microsoft MS series Certification</b>
   - [MS-900: Microsoft 365 Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/ms-900/)
-  - [MS-500:Microsoft 365 Certified: Security Administrator Associate certification](https://learn.microsoft.com/en-us/training/paths/implement-manage-identity-access/)
+  - [MS-500: Microsoft 365 Certified: Security Administrator Associate certification](https://learn.microsoft.com/en-us/training/paths/implement-manage-identity-access/)
 - <b>Microsoft SC series Certification</b>
   - [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/sc-900/)
   - [SC-200: Microsoft Security Operations Analyst)](https://learn.microsoft.com/en-us/certifications/exams/sc-200/)
