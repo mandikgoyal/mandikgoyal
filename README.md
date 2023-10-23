@@ -19,7 +19,7 @@
 - <b>Other Certifications</b>
   - [NetWitness Hunter](https://www.credly.com/badges/8ecb89f4-5fef-45b4-9e06-521f70ca5e63/linked_in_profile)
 <h2>Project</h2>
-- [Library in Java using Netbeans Softare](https://github.com/mandikgoyal/Powershell_scripts)
+- [Powershell Scripts](https://github.com/mandikgoyal/Powershell_scripts)
 
 <h2>School/College Project</h2>
 
