@@ -1,4 +1,4 @@
-<h1>Hi, My Name is Mandik!</h1> <h3>In my current role, I use various SIEM tools, such as Splunk, Prisma, and Microsoft 365 Defender, to monitor and triage alerts, investigate and analyze logs, and check for indicators of compromise from global campaigns. I also handle malware incidents, provide remediation on endpoints, and perform threat intelligence-based threat hunting. Additionally, I contribute to the development of SOPs, rule content.</h3>
+<h1>Hi, My Name is Mandik!</h1> In my current role, I use various SIEM tools, such as Splunk, Prisma, and Microsoft 365 Defender, to monitor and triage alerts, investigate and analyze logs, and check for indicators of compromise from global campaigns. I also handle malware incidents, provide remediation on endpoints, and perform threat intelligence-based threat hunting. Additionally, I contribute to the development of SOPs, rule content.
 
 
 <h2>✅ Certifications:</h2>
