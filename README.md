@@ -23,11 +23,11 @@
 <h2>📚 Informative Notes</h2>
 
 - [AWS Incident Response](https://github.com/mandikgoyal/AWS_Incident_Response)
+- [M365D Table](https://github.com/mandikgoyal/M365D_table)
     
 <h2>👨‍💻 Project</h2>
 
 - [Powershell Scripts](https://github.com/mandikgoyal/Powershell_scripts)
-- [M365D Table](https://github.com/mandikgoyal/M365D_table)
 
 <h2>🏫 School/College Project</h2>
 
