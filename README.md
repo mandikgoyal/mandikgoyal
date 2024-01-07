@@ -35,7 +35,7 @@
 | Email Protection                  | Agari Phishing Defense, CISCO ASA, IronPort, Proofpoint.                                   |
 | Network Monitoring                | RSA Netwitness, FireEYE NX, Wireshark.                                                     |
 | DDOS Protection                   | Arbor.                                                                                      |
-| Incident Handling and Process Creation | ServiceNow, OSIRIS                                                                       |
+| Incident Handling and Process Creation | ServiceNow                                                                       |
 | Auditing and Troubleshooting      | Kali, Nmap, Wireshark.                                                                      |
 | Malware Analysis                  | REM Workstation, AnyRun, VirusTotal, Total Hash, Cuckoo Sandbox, Process Hacker, Pestudio, Process Monitor, OLEDump |
 | Perimeter Security                | Barracuda WAF, Security onion.                                                             |
