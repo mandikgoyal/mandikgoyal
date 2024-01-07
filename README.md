@@ -22,6 +22,7 @@
 <h2>Project</h2>
 
 - [Powershell_Scripts](https://github.com/mandikgoyal/Powershell_scripts)
+- [M365D_table]([https://github.com/mandikgoyal/M365D_table)
 
 <h2>School/College Project</h2>
 
