@@ -24,6 +24,26 @@
 
 - [AWS Incident Response](https://github.com/mandikgoyal/AWS_Incident_Response)
 - [M365D Table](https://github.com/mandikgoyal/M365D_table)
+
+# Skills/Tools Used
+
+| Category                          | Tools                                                                                      |
+|-----------------------------------|---------------------------------------------------------------------------------------------|
+| SIEM Tools                        | FireEye Helix, CMS HX, NX & EX, Splunk.                                                      |
+| Cloud Security                    | Prisma, Azure Sentinel, AWS Guard Duty, AWS CloudWatch, Arbor, Defender, O365, Command Center, Zscaler |
+| EDR Tools                         | Microsoft 365 Defender, FireEye HX, Trend Micro.                                           |
+| Email Protection                  | Agari Phishing Defense, CISCO ASA, IronPort, Proofpoint.                                   |
+| Network Monitoring                | RSA Netwitness, FireEYE NX, Wireshark.                                                     |
+| DDOS Protection                   | Arbor.                                                                                      |
+| Incident Handling and Process Creation | ServiceNow, OSIRIS                                                                       |
+| Auditing and Troubleshooting      | Kali, Nmap, Wireshark.                                                                      |
+| Malware Analysis                  | REM Workstation, AnyRun, VirusTotal, Total Hash, Cuckoo Sandbox, Process Hacker, Pestudio, Process Monitor, OLEDump |
+| Perimeter Security                | Barracuda WAF, Security onion.                                                             |
+| Network Analysis                  | NMAP                                                                                        |
+| Packet Analysis                   | Wireshark.                                                                                 |
+| Other Tools                       | AbuseDB, URLScan, Triage.                                                                   |
+| Languages                         | C, C++, PowerShell, KQL.                                                                   |
+
     
 <h2>👨‍💻 Project</h2>
 
