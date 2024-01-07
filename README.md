@@ -19,12 +19,12 @@
 - <b>Other Certifications</b>
   - [NetWitness Hunter](https://www.credly.com/badges/8ecb89f4-5fef-45b4-9e06-521f70ca5e63/linked_in_profile)
     
-<h2>Project</h2>
+<h2>👨‍💻 Project</h2>
 
 - [Powershell_Scripts](https://github.com/mandikgoyal/Powershell_scripts)
 - [M365D_Table](https://github.com/mandikgoyal/M365D_table)
 
-<h2>School/College Project</h2>
+<h2>🏫 School/College Project</h2>
 
 - [Library in Java using Netbeans Software](https://github.com/mandikgoyal/Library-Java-Project-Netbeans)
 - [Multi National Company Network on Cisco Packet Tracer](https://github.com/mandikgoyal/MNC-Network/tree/main)
