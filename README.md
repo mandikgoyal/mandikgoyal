@@ -18,11 +18,15 @@
   - [SC-100: Microsoft Cybersecurity Architect](https://learn.microsoft.com/en-us/certifications/exams/sc-100/)
 - <b>Other Certifications</b>
   - [NetWitness Hunter](https://www.credly.com/badges/8ecb89f4-5fef-45b4-9e06-521f70ca5e63/linked_in_profile)
+ 
+<h2>📚 Informative Notes</h2>
+
+- [AWS Incident Response](https://github.com/mandikgoyal/AWS_Incident_Response)
     
 <h2>👨‍💻 Project</h2>
 
-- [Powershell_Scripts](https://github.com/mandikgoyal/Powershell_scripts)
-- [M365D_Table](https://github.com/mandikgoyal/M365D_table)
+- [Powershell Scripts](https://github.com/mandikgoyal/Powershell_scripts)
+- [M365D Table](https://github.com/mandikgoyal/M365D_table)
 
 <h2>🏫 School/College Project</h2>
 
